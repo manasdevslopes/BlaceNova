@@ -10,7 +10,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: saddlebrown;
-    background-image: url('../images/bg3.png');
+    background-image: url('./images/bg3.png');
     background-position: center cover;
     background-repeat: no-repeat;
 }
